@@ -1,11 +1,3 @@
-//============================================================================
-// Name        : SpencerYoneokaFinal.cpp
-// Author      : Spencer Yoneoka
-// Version     :
-// Copyright   :
-// Description : Stack
-//============================================================================
-
 #include <iostream>
 #include "myStack.h"
 
